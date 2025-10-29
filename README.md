@@ -1,0 +1,2 @@
+# OFD-Pay-A-Decentralized-Payment-System-Powered-by-Oracle-Free-Dollar-OFD-on-Hedera
+OFD-Pay is a decentralized payment platform built on the Hedera network, designed to enable fast, trustless, and cost-efficient digital payments using the Oracle-Free Dollar (OFD) stablecoin. The project integrates the OFD protocol—a trustless stablecoin model forked from Frankencoin—eliminating oracle dependency while ensuring full decentralizatio
